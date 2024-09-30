@@ -1,0 +1,6 @@
+auto car
+talo house
+kala fish
+koira dog
+kissa cat
+tietokone computer
