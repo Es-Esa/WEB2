@@ -61,6 +61,8 @@ function readDictionary() {
     res.status(201).json({ message: "Molemmat sanat lisätty", finnish, english });
 });
 
+
+//kuunnellaan porttia 3000, eli tulostetaan "Serveri toimii portissa 3000" ja käynnistetään serveri
 app.listen(3000, () => {
     console.log("Serveri toimii portissa 3000");
 });
